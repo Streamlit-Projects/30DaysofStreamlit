@@ -9,7 +9,6 @@ Why am I undertaking this challenge? I like possiblities streamlit offers such a
 
 I'm also hoping to take my acquired knowledge into practice within my work. 
 <br>
-   
 <br/>   
 
 ### About the Challenge
@@ -17,7 +16,7 @@ I'm also hoping to take my acquired knowledge into practice within my work.
 Everything about the challenge can be found on dedicated streamlit [website](https://blog.streamlit.io/30-days-of-streamlit/). <br />  
 <br>
    
-<br />   
+<br/>   
 
 ### Content
 
