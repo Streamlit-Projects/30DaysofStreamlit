@@ -8,13 +8,13 @@ Streamlit is an open source app framework in Python language. It helps us create
 Why am I undertaking this challenge? I like possiblities streamlit offers such as interactivity and connection with non-technical user via web app. I would like to achieve moving from streamlit enthusiast to streamlit advanced user. Creative part of streamlit is also quite fun 😉
 
 I'm also hoping to take my acquired knowledge into practice within my work. 
-
 <br/>
+
 ### About the Challenge
+
 <br>
-
 Everything about the challenge can be found on dedicated streamlit [website](https://blog.streamlit.io/30-days-of-streamlit/). <br />  
-
 <br/>
+
 ### Content
 
