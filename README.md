@@ -1,6 +1,6 @@
 # #30DaysofStreamlit <img src="https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/main/streamlit-mark-color.png" width="50"/>
    
-<br/>  
+<br />  
 ### Motivations
 Streamlit is an open source app framework in Python language. It helps us create web apps for data science and machine learning in a short time. It is compatible with major Python libraries such as scikit-learn, Keras, PyTorch, SymPy(latex), NumPy, pandas, Matplotlib and many more.
 
@@ -8,9 +8,9 @@ Why am I undertaking this challenge? I like possiblities streamlit offers such a
 
 I'm also hoping to take my acquired knowledge into practice within my work. 
   
-<br/>
+<br />
 ### About the Challenge
 Everything about the challenge can be found on dedicated streamlit [website](https://blog.streamlit.io/30-days-of-streamlit/).
    
- <br/>  
+ <br />  
 ### Content
