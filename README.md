@@ -15,3 +15,4 @@ Everything about the challenge can be found on dedicated [streamlit website](htt
 
 ### Content
 
+As the name gives away this is 30 tasks over (not necessary consecutive) 30 days.
