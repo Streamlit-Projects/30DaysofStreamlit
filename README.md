@@ -15,9 +15,15 @@ Everything about the challenge can be found on dedicated [streamlit website](htt
 
 ### Content
 
-As the name gives away this is 30 tasks over (not necessary consecutive) 30 days. Please see the task description in the table below:
+As the name gives away this is 30 tasks over (not necessary consecutive) 30 days.
 
-| Day | Challenge | Solution |
+📆 Days 1-7 cover beginner tasks such as setting up a local and cloud coding environment, installing the Streamlit library, and building first Streamlit Hello World app.
+
+📆 Days 8-23 cover more intermediate topics. Each day may highlight a Streamlit command to use for creating and deploying a simple Streamlit app (e.g., build a simple app that uses the st.download_button command).
+
+📆 Days 24-30 enter more advanced subjects. Learn about session states and things like efficient data and memory handling for Streamlit apps.
+
+| Day | Challenge | Skill learnt or demo |
 |:---:|-----------|:--------:|
 | 1 | [Setting up a local development environment](https://30days.streamlit.app/) | [solution]() |
 | 2 | [Building first Streamlit app](https://30days.streamlit.app/?challenge=Day+2) | [solution]() |
