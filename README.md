@@ -23,7 +23,7 @@ As the name gives away this is 30 tasks over (not necessary consecutive) 30 days
 
 📆 Days 24-30 enter more advanced subjects. Learn about session states and things like efficient data and memory handling for Streamlit apps.
 
-| Day | Challenge | Skill learnt or demo |
+| Day | Challenge | Skills learnt & showcase |
 |:---:|-----------|:--------:|
 | 1 | [Setting up a local development environment](https://30days.streamlit.app/) | [solution]() |
 | 2 | [Building first Streamlit app](https://30days.streamlit.app/?challenge=Day+2) | [solution]() |
