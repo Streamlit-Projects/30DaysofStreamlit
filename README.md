@@ -19,34 +19,34 @@ As the name gives away this is 30 tasks over (not necessary consecutive) 30 days
 
 | Day | Challenge | Solution |
 |:---:|-----------|:--------:|
-| 1 | [Hello World!]() | [solution]() |
-| 2 | [task 2]() | [solution]() |
-| 3 | [Hello World!]() | [solution]() |
-| 4 | [Hello World!]() | [solution]() |
-| 5 | [Hello World!]() | [solution]() |
-| 6 | [Hello World!]() | [solution]() |
-| 7 | [Hello World!]() | [solution]() |
-| 8 | [Hello World!]() | [solution]() |
-| 9 | [Hello World!]() | [solution]() |
-| 10 | [Hello World!]() | [solution]() |
-| 11 | [Hello World!]() | [solution]() |
-| 12 | [Hello World!]() | [solution]() |
-| 13 | [Hello World!]() | [solution]() |
-| 14 | [Hello World!]() | [solution]() |
-| 15 | [Hello World!]() | [solution]() |
-| 16 | [Hello World!]() | [solution]() |
-| 17 | [Hello World!]() | [solution]() |
-| 18 | [Hello World!]() | [solution]() |
-| 19 | [Hello World!]() | [solution]() |
-| 20 | [Hello World!]() | [solution]() |
-| 21 | [Hello World!]() | [solution]() |
-| 22 | [Hello World!]() | [solution]() |
-| 23 | [Hello World!]() | [solution]() |
-| 24 | [Hello World!]() | [solution]() |
-| 25 | [Hello World!]() | [solution]() |
-| 26 | [Hello World!]() | [solution]() |
-| 27 | [Hello World!]() | [solution]() |
-| 28 | [Hello World!]() | [solution]() |
-| 29 | [Hello World!]() | [solution]() |
-| 30 | [Hello World!]() | [solution]() |
+| 1 | [Setting up a local development environment](https://30days.streamlit.app/) | [solution]() |
+| 2 | [Building first Streamlit app](https://30days.streamlit.app/?challenge=Day+2) | [solution]() |
+| 3 | [st.button](https://30days.streamlit.app/?challenge=Day+3) | [solution]() |
+| 4 | [Building Streamlit apps with Ken Jee](https://30days.streamlit.app/?challenge=Day+4) | [solution]() |
+| 5 | [st.write](https://30days.streamlit.app/?challenge=Day+5) | [solution]() |
+| 6 | [Uploading Streamlit app to GitHub](https://30days.streamlit.app/?challenge=Day+6) | [solution]() |
+| 7 | [Deploying Streamlit app with Streamlit Community Cloud](https://30days.streamlit.app/?challenge=Day+7) | [solution]() |
+| 8 | [st.slider](https://30days.streamlit.app/?challenge=Day+8) | [solution]() |
+| 9 | [st.line_chart](https://30days.streamlit.app/?challenge=Day+9) | [solution]() |
+| 10 | [st.selectbox](https://30days.streamlit.app/?challenge=Day+10) | [solution]() |
+| 11 | [st.multiselect](https://30days.streamlit.app/?challenge=Day+11) | [solution]() |
+| 12 | [st.checkbox](https://30days.streamlit.app/?challenge=Day+12) | [solution]() |
+| 13 | [Spin up a cloud development environment](https://30days.streamlit.app/?challenge=Day+13) | [solution]() |
+| 14 | [Streamlit Components](https://30days.streamlit.app/?challenge=Day+14) | [solution]() |
+| 15 | [st.latex](https://30days.streamlit.app/?challenge=Day+15) | [solution]() |
+| 16 | [Customizing the theme of Streamlit apps](https://30days.streamlit.app/?challenge=Day+16) | [solution]() |
+| 17 | [st.secrets](https://30days.streamlit.app/?challenge=Day+17) | [solution]() |
+| 18 | [st.file_uploader](https://30days.streamlit.app/?challenge=Day+18) | [solution]() |
+| 19 | [How to layout Streamlit app](https://30days.streamlit.app/?challenge=Day+19) | [solution]() |
+| 20 | [Tech Twitter Space on What is Streamlit?](https://30days.streamlit.app/?challenge=Day+20) | [solution]() |
+| 21 | [st.progress](https://30days.streamlit.app/?challenge=Day+21) | [solution]() |
+| 22 | [st.form](https://30days.streamlit.app/?challenge=Day+22) | [solution]() |
+| 23 | [st.experimental_get_query_params](https://30days.streamlit.app/?challenge=Day+23) | [solution]() |
+| 24 | [st.cache](https://30days.streamlit.app/?challenge=Day+24) | [solution]() |
+| 25 | [st.session_state](https://30days.streamlit.app/?challenge=Day+25) | [solution]() |
+| 26 | [How to use API by building the Bored API app](https://30days.streamlit.app/?challenge=Day+46) | [solution]() |
+| 27 | [Build a draggable and resizable dashboard with Streamlit Elements](https://30days.streamlit.app/?challenge=Day+27) | [solution]() |
+| 28 | [streamlit-shap](https://30days.streamlit.app/?challenge=Day+28) | [solution]() |
+| 29 | [How to make a zero-shot learning text classifier using Hugging Face and Streamlit](https://30days.streamlit.app/?challenge=Day+29) | [solution]() |
+| 30 | [The Art of Creating Streamlit Apps](https://30days.streamlit.app/?challenge=Day+30) | [solution]() |
 <br/>
