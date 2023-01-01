@@ -56,3 +56,5 @@ As the name gives away this is 30 tasks over (not necessary consecutive) 30 days
 | 29 | [How to make a zero-shot learning text classifier using Hugging Face and Streamlit](https://30days.streamlit.app/?challenge=Day+29) | [solution]() |
 | 30 | [The Art of Creating Streamlit Apps](https://30days.streamlit.app/?challenge=Day+30) | [solution]() |
 <br/>
+
+Streamlit's [Cheat Sheet](https://docs.streamlit.io/library/cheatsheet)
