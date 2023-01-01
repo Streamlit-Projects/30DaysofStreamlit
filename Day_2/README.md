@@ -22,16 +22,10 @@ To run an app, open terminal and run the following code:
 `streamlit run streamlit_app.py`
 
 <p align="center">
-<img width="650em" src="" align = "center"/>
+<img width="650em" src="https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_2/run_app.png" align = "center"/>
 </p>
 
 <br><br/>
 
 ### Hello World app
-After running **streamlit run streamlit_app.py** command, we launch our app:
-
-<p align="center">
-<img width="650em" src="" align = "center"/>
-</p>
-
-[streamlit_app.py]()
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_white.svg)](https://mbohunickacharles-30daysofstreamlit-day-2streamlit-app-r2dj76.streamlit.app/)
