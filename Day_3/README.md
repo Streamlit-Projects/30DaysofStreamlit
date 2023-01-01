@@ -20,8 +20,12 @@ else:
 <br><br/>
 
 ### App
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_white.svg)](https://mbohunickacharles-30daysofstreamlit-day-3button-app-9nlvsb.streamlit.app/)
 
-App code: [button_app.py]() <br/>
+<p align="center">
+<img width="700em" src="https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_3/app.png" align = "center"/>
+</p>
+
 
 
 
