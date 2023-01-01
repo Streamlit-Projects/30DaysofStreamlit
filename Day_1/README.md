@@ -45,5 +45,5 @@ To launch the Streamlit demo app:
 After running **streamlit hello** command, we launch the following app:
 
 <p align="center">
-<img width="650em" src="" align = "center"/>
+<img width="650em" src="https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_1/stramlit%20hello.gif" align = "center"/>
 </p>
