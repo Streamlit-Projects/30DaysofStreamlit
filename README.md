@@ -25,7 +25,7 @@ As the name gives away this is 30 tasks over (not necessary consecutive) 30 days
 
 | Day | Challenge | Skills learnt & showcase |
 |:---:|-----------|:--------:|
-| 1 | [Setting up a local development environment](https://30days.streamlit.app/) | [solution]() |
+| 1 | [Setting up a local development environment](https://30days.streamlit.app/) | [set up & install streamlit](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_1/README.md) |
 | 2 | [Building first Streamlit app](https://30days.streamlit.app/?challenge=Day+2) | [solution]() |
 | 3 | [st.button](https://30days.streamlit.app/?challenge=Day+3) | [solution]() |
 | 4 | [Building Streamlit apps with Ken Jee](https://30days.streamlit.app/?challenge=Day+4) | [solution]() |
