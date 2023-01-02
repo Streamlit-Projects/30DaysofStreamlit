@@ -1,4 +1,4 @@
-# Uploading Streamlit app to GitHub <img src="https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_6/github.png" width="50"/>  <br><br/> 
+# Uploading Streamlit app to GitHub <img src="https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_6/github-removebg-preview.png" width="50"/>  <br><br/> 
 <br><br/> 
 
 Git is a software for keeping track of all changes made to code (version control). GitHub is a Git repository hosting service that makes data and code publicly available on the web, which allows team collaboration and allow others to contribute to the repo.
