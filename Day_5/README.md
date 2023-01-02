@@ -16,9 +16,9 @@ View [app code]().
 <br><br/>
 
 ### App
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_white.svg)]()
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_white.svg)](https://mbohunickacharles-30daysofstreamlit-day-5write-app-v1l99x.streamlit.app/)
 
 <p align="center">
-<img width="700em" src="" align = "center"/>
+<img width="700em" src="https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_5/write_app.gif" align = "center"/>
 </p>
 
