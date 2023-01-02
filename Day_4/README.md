@@ -8,10 +8,6 @@ You can find Ken's tutorial below:
 </div>
 <br><br/>
 
-### App Demo
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_white.svg)]()
-<br><br/>
-
 ### Skills learnt
 - set up the environment
 - load and clean app data
