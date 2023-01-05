@@ -32,7 +32,7 @@ As the name gives away this is 30 tasks over (not necessary consecutive) 30 days
 | 5 | [st.write](https://30days.streamlit.app/?challenge=Day+5) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_5/README.md) |
 | 6 | [Uploading Streamlit app to GitHub](https://30days.streamlit.app/?challenge=Day+6) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_6/README.md) |
 | 7 | [Deploying Streamlit app with Streamlit Community Cloud](https://30days.streamlit.app/?challenge=Day+7) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_7/README.md) |
-| 8 | [st.slider](https://30days.streamlit.app/?challenge=Day+8) | [solution]() |
+| 8 | [st.slider](https://30days.streamlit.app/?challenge=Day+8) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_8/README.md) |
 | 9 | [st.line_chart](https://30days.streamlit.app/?challenge=Day+9) | [solution]() |
 | 10 | [st.selectbox](https://30days.streamlit.app/?challenge=Day+10) | [solution]() |
 | 11 | [st.multiselect](https://30days.streamlit.app/?challenge=Day+11) | [solution]() |
