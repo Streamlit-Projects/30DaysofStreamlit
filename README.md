@@ -29,7 +29,7 @@ As the name gives away this is 30 tasks over (not necessary consecutive) 30 days
 | 2 | [Building first Streamlit app](https://30days.streamlit.app/?challenge=Day+2) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_2/README.md) |
 | 3 | [st.button](https://30days.streamlit.app/?challenge=Day+3) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_3/README.md) |
 | 4 | [Building Streamlit apps with Ken Jee](https://30days.streamlit.app/?challenge=Day+4) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_4/README.md) |
-| 5 | [st.write](https://30days.streamlit.app/?challenge=Day+5) | [solution]() |
+| 5 | [st.write](https://30days.streamlit.app/?challenge=Day+5) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_5/README.md) |
 | 6 | [Uploading Streamlit app to GitHub](https://30days.streamlit.app/?challenge=Day+6) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_6/README.md) |
 | 7 | [Deploying Streamlit app with Streamlit Community Cloud](https://30days.streamlit.app/?challenge=Day+7) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_7/README.md) |
 | 8 | [st.slider](https://30days.streamlit.app/?challenge=Day+8) | [solution]() |
