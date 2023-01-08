@@ -34,7 +34,7 @@ As the name gives away this is 30 tasks over (not necessary consecutive) 30 days
 | 7 | [Deploying Streamlit app with Streamlit Community Cloud](https://30days.streamlit.app/?challenge=Day+7) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_7/README.md) |
 | 8 | [st.slider](https://30days.streamlit.app/?challenge=Day+8) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_8/README.md) |
 | 9 | [st.line_chart](https://30days.streamlit.app/?challenge=Day+9) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_9/README.md) |
-| 10 | [st.selectbox](https://30days.streamlit.app/?challenge=Day+10) | [-]() |
+| 10 | [st.selectbox](https://30days.streamlit.app/?challenge=Day+10) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_10/README.md) |
 | 11 | [st.multiselect](https://30days.streamlit.app/?challenge=Day+11) | [-]() |
 | 12 | [st.checkbox](https://30days.streamlit.app/?challenge=Day+12) | [-]() |
 | 13 | [Spin up a cloud development environment](https://30days.streamlit.app/?challenge=Day+13) | [-]() |
