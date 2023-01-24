@@ -40,7 +40,7 @@ As the name gives away this is 30 tasks over (not necessary consecutive) 30 days
 | 13 | [Spin up a cloud development environment](https://30days.streamlit.app/?challenge=Day+13) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_13/README.md) |
 | 14 | [Streamlit Components](https://30days.streamlit.app/?challenge=Day+14) | [-]() |
 | 15 | [st.latex](https://30days.streamlit.app/?challenge=Day+15) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_15/README.md) |
-| 16 | [Customizing the theme of Streamlit apps](https://30days.streamlit.app/?challenge=Day+16) | [-]() |
+| 16 | [Customizing the theme of Streamlit apps](https://30days.streamlit.app/?challenge=Day+16) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/tree/master/Day_16) |
 | 17 | [st.secrets](https://30days.streamlit.app/?challenge=Day+17) | [-]() |
 | 18 | [st.file_uploader](https://30days.streamlit.app/?challenge=Day+18) | [-]() |
 | 19 | [How to layout Streamlit app](https://30days.streamlit.app/?challenge=Day+19) | [-]() |
