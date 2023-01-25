@@ -38,7 +38,7 @@ As the name gives away this is 30 tasks over (not necessary consecutive) 30 days
 | 11 | [st.multiselect](https://30days.streamlit.app/?challenge=Day+11) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_11/README.md) |
 | 12 | [st.checkbox](https://30days.streamlit.app/?challenge=Day+12) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_12/README.md) |
 | 13 | [Spin up a cloud development environment](https://30days.streamlit.app/?challenge=Day+13) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_13/README.md) |
-| 14 | [Streamlit Components](https://30days.streamlit.app/?challenge=Day+14) | [-]() |
+| 14 | [Streamlit Components](https://30days.streamlit.app/?challenge=Day+14) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_14/README.md) |
 | 15 | [st.latex](https://30days.streamlit.app/?challenge=Day+15) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_15/README.md) |
 | 16 | [Customizing the theme of Streamlit apps](https://30days.streamlit.app/?challenge=Day+16) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/tree/master/Day_16) |
 | 17 | [st.secrets](https://30days.streamlit.app/?challenge=Day+17) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/tree/master/Day_17) |
