@@ -43,7 +43,7 @@ As the name gives away this is 30 tasks over (not necessary consecutive) 30 days
 | 16 | [Customizing the theme of Streamlit apps](https://30days.streamlit.app/?challenge=Day+16) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/tree/master/Day_16) |
 | 17 | [st.secrets](https://30days.streamlit.app/?challenge=Day+17) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/tree/master/Day_17) |
 | 18 | [st.file_uploader](https://30days.streamlit.app/?challenge=Day+18) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/tree/master/Day_18) |
-| 19 | [How to layout Streamlit app](https://30days.streamlit.app/?challenge=Day+19) | [-]() |
+| 19 | [How to layout Streamlit app](https://30days.streamlit.app/?challenge=Day+19) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_19/README.md) |
 | 20 | [Tech Twitter Space on What is Streamlit?](https://30days.streamlit.app/?challenge=Day+20) | [-]() |
 | 21 | [st.progress](https://30days.streamlit.app/?challenge=Day+21) | [-]() |
 | 22 | [st.form](https://30days.streamlit.app/?challenge=Day+22) | [-]() |
