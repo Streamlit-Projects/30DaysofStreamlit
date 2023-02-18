@@ -47,7 +47,7 @@ As the name gives away this is 30 tasks over (not necessary consecutive) 30 days
 | 20 | [Tech Twitter Space on What is Streamlit?](https://30days.streamlit.app/?challenge=Day+20) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_20/README.md) |
 | 21 | [st.progress](https://30days.streamlit.app/?challenge=Day+21) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/tree/master/Day_21) |
 | 22 | [st.form](https://30days.streamlit.app/?challenge=Day+22) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_22)|
-| 23 | [st.experimental_get_query_params](https://30days.streamlit.app/?challenge=Day+23) | [-]() |
+| 23 | [st.experimental_get_query_params](https://30days.streamlit.app/?challenge=Day+23) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/tree/master/Day_23) |
 | 24 | [st.cache](https://30days.streamlit.app/?challenge=Day+24) | [-]() |
 | 25 | [st.session_state](https://30days.streamlit.app/?challenge=Day+25) | [-]() |
 | 26 | [How to use API by building the Bored API app](https://30days.streamlit.app/?challenge=Day+46) | [-]() |
