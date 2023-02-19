@@ -1,6 +1,6 @@
 # st.cache <br><br/>
 
-[st.cache](https://docs.streamlit.io/library/api-reference/performance/st.cache) allows us to optimise a performance of our Streamlit app. <br/>
+[st.cache()](https://docs.streamlit.io/library/api-reference/performance/st.cache) allows us to optimise a performance of our Streamlit app. <br/>
 
 To learn more about Caching check this [link](https://docs.streamlit.io/library/advanced-features/caching) out!
 
