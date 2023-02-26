@@ -51,9 +51,9 @@ As the name gives away this is 30 tasks over (not necessary consecutive) 30 days
 | 24 | [st.cache](https://30days.streamlit.app/?challenge=Day+24) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/tree/master/Day_24) |
 | 25 | [st.session_state](https://30days.streamlit.app/?challenge=Day+25) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/tree/master/Day_25) |
 | 26 | [How to use API by building the Bored API app](https://30days.streamlit.app/?challenge=Day+26) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/tree/master/Day_26) |
-| 27 | [Build a draggable and resizable dashboard with Streamlit Elements](https://30days.streamlit.app/?challenge=Day+27) | [-]() |
-| 28 | [streamlit-shap](https://30days.streamlit.app/?challenge=Day+28) | [-]() |
-| 29 | [How to make a zero-shot learning text classifier using Hugging Face and Streamlit](https://30days.streamlit.app/?challenge=Day+29) | [-]() |
+| 27 | [Build a draggable and resizable dashboard with Streamlit Elements](https://30days.streamlit.app/?challenge=Day+27) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/tree/master/Day_27) |
+| 28 | [streamlit-shap](https://30days.streamlit.app/?challenge=Day+28) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/tree/master/Day_28) |
+| 29 | [How to make a zero-shot learning text classifier using Hugging Face and Streamlit](https://30days.streamlit.app/?challenge=Day+29) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/tree/master/Day_29) |
 | 30 | [The Art of Creating Streamlit Apps](https://30days.streamlit.app/?challenge=Day+30) | [solution](https://github.com/mBohunickaCharles/30DaysofStreamlit/blob/master/Day_30/README.md) |
 <br/>
 
